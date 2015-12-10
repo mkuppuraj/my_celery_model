@@ -18,3 +18,7 @@ build/
 tmp/
 sdist/
 pip-log.txt
+.installed.cfg
+
+# App related items
+db/
