@@ -1,2 +1,20 @@
 
-*.pyc
+# Python
+*.py[cod]
+*.egg
+*.egg-info
+
+# Build Related
+downloads/
+eggs/
+usr/
+var/
+parts/
+src/
+develop-eggs/
+bin/
+dist/
+build/
+tmp/
+sdist/
+pip-log.txt
